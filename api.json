@@ -1,0 +1,434 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Breakfast",
+            "image": "images/products/sneaker.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Burgers",
+            "image": "images/products/mcd-big-tasty-uae-new.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Chickens & Sandwitches",
+            "image": "images/products/mcd-mcchicken-uae-new.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Extra Values Meals",
+            "image": "images/products/mcd-big-mac-uae-new.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Signature Collection",
+            "image": "images/products/Signature2018-BBQ_Angus_category-panel-left-desktop.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Snacks & Sides",
+            "image": "images/products/Snacks_Sides_category-panel-left-desktop.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Desserts",
+            "image": "images/products/HotFudgeSundae_category-panel-left-desktop.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Beverages",
+            "image": "images/products/Beverages_category-panel-left-desktop.jpg"
+        },
+        {
+            "id": 9,
+            "name": "McCafe",
+            "image": "images/products/McCafe-uae-new.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Happy Meals",
+            "image": "images/products/Happymeal_category-panel-left-desktop.jpg"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "category_id": 1,
+            "name": "Big Breakfast",
+            "description": "Wake up with a warm McMuffin, fluffy scrambled eggs, savory hot Halal sausage, and crispy golden hash browns.",
+            "image": "images/products/sneaker.jpg",
+            "price": 15,
+            "calories": 386
+        },
+        {
+            "id": 2,
+            "category_id": 1,
+            "name": "Hotcakes 3-Pieces",
+            "description": "Three golden brown, melt-in-your-mouth hotcakes with a side of real butter and the sweet flavor of maple.",
+            "image": "images/products/mcd-hotcakes-uae-new.jpg",
+            "price": 14,
+            "calories": 315
+        },
+        {
+            "id": 3,
+            "category_id": 1,
+            "name": "Egg McMuffin",
+            "description": "An excellent source of protein and oh so delicious. We place a freshly-cracked Grade A egg on a toasted English Muffin topped with real butter and add chicken roll and melty American cheese. And all that for 290 calories.",
+            "image": "images/products/mcd-egg-muffin-uae-new.jpg",
+            "price": 12,
+            "calories": 288
+        },
+        {
+            "id": 4,
+            "category_id": 2,
+            "name": "Big Tasty",
+            "description": "A big and tasty Halal beef patty smothered in our one of a kind Big Tasty Sauce and 3 slices of emmental cheese, dressed with 2 slices of tomato, a handful of crispy shredded lettuce and slivered onions.",
+            "image": "images/products/mcd-big-tasty-uae-new.jpg",
+            "price": 22,
+            "calories": 922
+        },
+        {
+            "id": 5,
+            "category_id": 2,
+            "name": "McRoyale",
+            "description": "The McRoyale™ has it all! A juicy Halal beef patty accompanied by cheese, crispy lettuce, fresh tomatoes, onions, zesty pickles, and spread with mayonnaise, ketchup and mustard.",
+            "image": "images/products/mcd-McRoyale-uae-new.jpg",
+            "price": 19,
+            "calories": 583
+        },
+        {
+            "id": 6,
+            "category_id": 2,
+            "name": "Quarter Pounder with Cheese",
+            "description": "A quarter pound* of 100% pure halal beef with absolutely no fillers, additives or preservatives. Just a pinch of salt and pepper, and seared on our grill so it’s thick and juicy. Layered with two slices of melty cheese, slivered onions and tangy pickles on a sesame seed bun. *Weight before cooking at least 110 g.",
+            "image": "images/products/mcd-quarter-pounder-with-cheese-uae-new.jpg",
+            "price": 18,
+            "calories": 586
+        },
+        {
+            "id": 7,
+            "category_id": 2,
+            "name": "Big Mac",
+            "description": "Mouthwatering perfection starts with two sear-sizzled 100% pure Halal beef patties and Big Mac™ sauce, sandwiched between a sesame seed bun. American cheese, shredded lettuce, onions and pickles top it off.",
+            "image": "images/products/mcd-bigmac-uae-new.jpg",
+            "price": 18,
+            "calories": 597
+        },
+        {
+            "id": 8,
+            "category_id": 3,
+            "name": "3 pcs Chicken McWings",
+            "description": "Mildly Spicy",
+            "image": "images/products/mcd-3pcs-chicken-mcwing-uae-new.jpg",
+            "price": 5,
+            "calories": 326.50
+        },
+        {
+            "id": 9,
+            "category_id": 3,
+            "name": "Grand Chicken Special",
+            "description": "A thick, crispy Halal chicken patty topped with a handful of crispy lettuce, rocca, juicy tomato slices, two slices of Emmental cheese and a slice of chicken roll, accompanied by a grainy, gourmet dressing sauce - all held together by a soft, water split bun.",
+            "image": "images/products/mcd-grand-chicken-special-uae-new.jpg",
+            "price": 21,
+            "calories": 790
+        },
+        {
+            "id": 10,
+            "category_id": 1,
+            "name": "Chicken Sausage McMuffin",
+            "description": "Features a warm, freshly toasted English muffin, topped with savory hot Halal sausage and a slice of melty American cheese.",
+            "image": "images/products/mcd-cknsausage-muffin-uae-new.jpg",
+            "price": 11,
+            "calories": 276
+        },
+        {
+            "id": 11,
+            "category_id": 1,
+            "name": "Hash Browns",
+            "description": "Deliciously tasty hash browns. Fluffy on the inside, crispy and toasty on the outside.",
+            "image": "images/products/mcd-hash-browns-uae-new.jpg",
+            "price": 10,
+            "calories": 179
+        },
+        {
+            "id": 12,
+            "category_id": 2,
+            "name": "Smoky BBQ",
+            "description": "Juicy 100% halal beef topped with crispy chicken strips, crispy onion, fresh Boston lettuce, melty Emmental cheese, and a smoky barbeque sauce, all nestled in a double water split artisan bun.",
+            "image": "images/products/mcd-smoky-bbq-uae-new.jpg",
+            "price": 23,
+            "calories": 688
+        },
+        {
+            "id": 13,
+            "category_id": 2,
+            "name": "Double Cheeseburger",
+            "description": "Two 100% pure halal beef patties with absolutely no fillers, additives or preservatives, seasoned with a pinch of salt and pepper, and topped with tangy pickles, chopped onions, ketchup, mustard and two slices of melty American cheese.",
+            "image": "images/products/mcd-double-cheese-burger-uae-new.jpg",
+            "price": 8.5,
+            "calories": 486
+        },
+        {
+            "id": 14,
+            "category_id": 3,
+            "name": "McArabia™ Chicken",
+            "description": "Another way to enjoy our delicious chicken! Two Halal grilled chicken patties with lettuce, tomatoes, onions and flavorful garlic sauce held together by Arabic bread.",
+            "image": "images/products/mcd-mcarabia-uae-new.jpg",
+            "price": 20,
+            "calories": 553
+        },
+        {
+            "id": 15,
+            "category_id": 4,
+            "name": "Big Mac Meal",
+            "description": "The one and only McDonald’s Big Mac® Meal. Big Mac Ingredients include a classic sesame hamburger bun, Big Mac Sauce, American cheese and sliced pickles. The Big Mac Meal is served with our World Famous Fries® and your choice of an icy Coca-Cola fountain drink.",
+            "image": "images/products/mcd-big-mac-uae-new.jpg",
+            "price": 42,
+            "calories": 999.99
+        },
+        {
+            "id": 16,
+            "category_id": 4,
+            "name": "McChicken Meal",
+            "description": "Deliciously Halal crispy chicken topped with mayonnaise, shredded lettuce, and served on a perfectly toasty bun. Served with our World Famous Fries® and your choice of a Medium McDonald’s soft drink.",
+            "image": "images/products/mcd-mcchicken-meal-uae-new.jpg",
+            "price": 38,
+            "calories": 999.99
+        },
+        {
+            "id": 17,
+            "category_id": 4,
+            "name": "9 Pcs Chicken McNuggets Meal",
+            "description": "Enjoy 9 tender and delicious Chicken McNuggets® made with all white meat chicken—plus our World Famous Fries® and your choice of a Medium McDonald’s drink.",
+            "image": "images/products/mcd-9pc-nuggets-uae-new.jpg",
+            "price": 30,
+            "calories": 999.99
+        },
+        {
+            "id": 18,
+            "category_id": 9,
+            "name": "Hot Chocolate",
+            "description": "Warm up with chocolaty flavor.Hot Chocolate. made with steamed milk and rich chocolate syrup, is everything you love in a cup.",
+            "image": "images/products/mcd-hot-chocolate-uae-v1-2022.jpg",
+            "price": 12,
+            "calories": 343
+        },
+        {
+            "id": 19,
+            "category_id": 9,
+            "name": "Cappuccino",
+            "description": "Made with 100% sustainable Arabica coffee beans, blended with steamed milk. Topped lightly with coco-dusted powder for the finishing touch!",
+            "image": "images/products/mcd-cappuccino-uae-v1-2022.jpg",
+            "price": 13,
+            "calories": 143
+        },
+        {
+            "id": 20,
+            "category_id": 9,
+            "name": "Latte",
+            "description": "Warm up with a rich Latte, made from Rainforest Alliance Certified espresso.",
+            "image": "images/products/mcd-latte-uae-v1-2022.jpg",
+            "price": 11,
+            "calories": 164
+        },
+        {
+            "id": 21,
+            "category_id": 3,
+            "name": "Chicken Mac",
+            "description": "An unbelievable sandwich made with 2 breaded Halal chicken patties, cheese, lettuce, creamy mayo and a bun in the middle!",
+            "image": "images/products/chicken-mac-uae_1-4-product-tile-desktop.jpg",
+            "price": 19,
+            "calories": 332
+        },
+        {
+            "id": 22,
+            "category_id": 3,
+            "name": "Grand Chicken Classic",
+            "description": "A juicy marinated Halal chicken covered with a soft bun, topped with crispy lettuce and smothered in a zing of garlic mayo sauce.",
+            "image": "images/products/mcd-grand-chicken-classic-uae-new_1-4-product-tile-desktop.jpg",
+            "price": 21,
+            "calories": 405
+        },
+        {
+            "id": 23,
+            "category_id": 3,
+            "name": "Spicy Crunchy Chicken",
+            "description": "A fluffy sesame seed artisan bun packed with a golden-brown halal buttermilk chicken breast, jalepenos, crispy lettuce, tomatoes, melty Emmental cheese, and a rich tomato sauce.",
+            "image": "images/products/mcd-spicy-crunchy-chicken-uae-new_1-4-product-tile-desktop.jpg",
+            "price": 26,
+            "calories": 59
+        },
+        {
+            "id": 24,
+            "category_id": 4,
+            "name": "Quarter Pounder with Cheese Meal",
+            "description": "Refuel with a Quarter Pounder® with Cheese made with fresh beef** that’s cooked when you order. The Quarter Pounder® with Cheese Meal is served with our World Famous Fries® and your choice of an icy medium fountain drink.",
+            "image": "images/products/mcd-QPC-uae-new_1-4-product-tile-desktop.jpg",
+            "price": 20.75,
+            "calories": 1081
+        },
+        {
+            "id": 25,
+            "category_id": 4,
+            "name": "McArabia Chicken Meal",
+            "description": "Another way to enjoy our delicious chicken! Two Halal grilled chicken patties with lettuce, tomatoes, onions and flavorful garlic sauce held together by Arabic bread. Served with our World Famous Fries® and your choice of a Medium McDonald’s soft drink.",
+            "image": "images/products/mcd-mcarabia-uae-meal-new_1-4-product-tile-desktop.jpg",
+            "price": 45,
+            "calories": 1232
+        },
+        {
+            "id": 26,
+            "category_id": 5,
+            "name": "The Mushroom Beef",
+            "description": "A perfectly toasted fluffy sesame seed artisan split bun packed with a 100% Halal Beef Patty, savory cheddar cheese, seasoned grilled mushroom and fresh onions, all smothered by a rich grilled black pepper mayonnaise.",
+            "image": "images/products/mushroom-beef-uae-v1_1-4-product-tile-desktop.jpg",
+            "price": 33,
+            "calories": 732
+        },
+        {
+            "id": 27,
+            "category_id": 5,
+            "name": "Smoky BBQ",
+            "description": "Juicy 100% halal beef topped with crispy chicken strips, crispy onion, fresh Boston lettuce, melty Emmental cheese, and a smoky barbeque sauce, all nestled in a double water split artisan bun.",
+            "image": "images/products/mcd-smoky-bbq-uae-new_1-4-product-tile-desktop.jpg",
+            "price": 23,
+            "calories": 260
+        },
+        {
+            "id": 28,
+            "category_id": 6,
+            "name": "Pineapple Stick",
+            "description": "A delicious and refreshing new addition to our menu, the pineapple stick is the perfect natural treat to accompany your kid’s Happy Meal.",
+            "image": "images/products/mcd-pineapple-sticks-uae-new_1-4-product-tile-desktop.jpg",
+            "price": 4,
+            "calories": 89
+        },
+        {
+            "id": 29,
+            "category_id": 6,
+            "name": "Banana",
+            "description": "A healthy fruit for breakfast",
+            "image": "images/products/mcd-banana-uae-new_1-4-product-tile-desktop.jpg",
+            "price": 4,
+            "calories": 68
+        },
+        {
+            "id": 30,
+            "category_id": 7,
+            "name": "McFlurry™ Oreo",
+            "description": "Vanilla soft serve with OREO® Cookies mixed in.",
+            "image": "images/products/mcd-oreo-mcflurry-uae-new_1-4-product-tile-desktop.jpg",
+            "price": 8,
+            "calories": 399
+        },
+        {
+            "id": 31,
+            "category_id": 7,
+            "name": "Kitkat McFlurry™",
+            "description": "Vanilla soft serve with Kit-Kat® biscuits mixed in.",
+            "image": "images/products/mcd-kitkat-mcflurry-uae-new.jpg",
+            "price": 8,
+            "calories": 437
+        },
+        {
+            "id": 32,
+            "category_id": 7,
+            "name": "Strawberry Sundae",
+            "description": "Sweet, tart and oh so creamy. STRAWBERRY SUNDAE. Creamy vanilla soft serve topped with sliced strawberries in a sweet and tart strawberry sauce.",
+            "image": "images/products/mcd-kitkat-mcflurry-uae-new.jpg",
+            "price": 7,
+            "calories": 295
+        },
+        {
+            "id": 33,
+            "category_id": 7,
+            "name": "Apple Pie",
+            "description": "Crispy on the outside, deliciously hot and sweet on the inside, our Apple Pie is a McDonald's classic.",
+            "image": "images/products/mcd-apple-pie-uae-new.jpg",
+            "price": 7,
+            "calories": 231
+        },
+        {
+            "id": 34,
+            "category_id": 9,
+            "name": "Chocolate Ball",
+            "description": "A smooth and fluffy donut iced with chocolate – making it the perfect pick-me-up.",
+            "image": "images/products/mcd-chocolate-ball-donut-uae-new.jpg",
+            "price": 6,
+            "calories": 0
+        },
+        {
+            "id": 35,
+            "category_id": 9,
+            "name": "Choco Oreo Frappe",
+            "description": "Blended iced drink with delectable Oreo® bits, skimmed milk and rich chocolate flavour.",
+            "image": "images/products/mcd-choco-oreo-frappe-uae-v1-2022_1-4-product-tile-desktop.jpg",
+            "price": 14,
+            "calories": 0
+        },
+        {
+            "id": 36,
+            "category_id": 9,
+            "name": "Cheese Croissant",
+            "description": "Fresh golden-baked croissant which is crispy in the outside and delicious on the inside.",
+            "image": "images/products/mcd-cheese-croissant-uae-new_1-4-product-tile-desktop.jpg",
+            "price": 8,
+            "calories": 301
+        },
+        {
+            "id": 37,
+            "category_id": 9,
+            "name": "Plain Croissant",
+            "description": "Flaky, buttery, and deliciously authentic plain croissant",
+            "image": "images/products/mcd-plain-croissant-uae-new_1-4-product-tile-desktop.jpg",
+            "price": 8,
+            "calories": 333
+        },
+        {
+            "id": 38,
+            "category_id": 10,
+            "name": "Happy Meal Beefburger with Pineapple Stick",
+            "description": "A juicy beefburger with Pineapple Stick and an Orange Juice Drink.",
+            "image": "images/products/mcd-hm-beef-burger-pineapple-uae-new_product-header-mobile.jpg",
+            "price": 14,
+            "calories": 464.98
+        },
+        {
+            "id": 39,
+            "category_id": 10,
+            "name": "Happy Meal Chicken McNuggets with Banana",
+            "description": "Four tender Chicken McNuggets made with white meat with Banana and an Orange Juice Drink.",
+            "image": "images/products/mcd-hm-nuggets-banana-uae-new_1-4-product-tile-desktop.jpg",
+            "price": 15,
+            "calories": 415.98
+        },
+        {
+            "id": 40,
+            "category_id": 8,
+            "name": "Fanta",
+            "description": "Go for it! Available in Small, Medium, and Large.",
+            "image": "images/products/mcd-fanta-uae-v1-2022.jpg",
+            "price": 7,
+            "calories": 206
+        },
+        {
+            "id": 41,
+            "category_id": 8,
+            "name": "Sprite",
+            "description": "SPRITE® Delicious lemon-lime taste with no caffeine. Available in Small, Medium, and Large.",
+            "image": "images/products/mcd-sprite-uae-v1-2022.jpg",
+            "price": 7,
+            "calories": 167
+        },
+        {
+            "id": 42,
+            "category_id": 6,
+            "name": "Fries",
+            "description": "Our French fries are born from premium potatoes such as the Russet Burbank and the Shepody. With zero grams of trans fat per labeled serving, these epic fries are crispy and golden on the outside and fluffy on the inside. Available in sizes small, regular, meduim and large.",
+            "image": "images/products/mcd-small-fries-uae-new.jpg",
+            "price": 12,
+            "calories": 167
+        }
+    ]
+}
