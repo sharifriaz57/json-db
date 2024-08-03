@@ -24,7 +24,7 @@ app.get('/products', async (req, res, next) => {
         if (isNaN(categoryId)) {
             return res.status(400).json({ error: 'Invalid category_id' });
         }
-        const filteredData = data.products.filter(item => item.id == categoryId);
+        const filteredData = data.products.filter(item => item.category_id == categoryId);
         return res.status(200).json(filteredData);
     }
 
